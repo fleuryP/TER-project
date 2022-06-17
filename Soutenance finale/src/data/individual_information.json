@@ -1,0 +1,403 @@
+{
+  "residential": [
+    {
+      "loc": "3021",
+      "type_event": "naissance",
+      "annee": "1912                ",
+      "latitude": 48.8218818253,
+      "longitude": 3.18099765766,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "3021",
+      "type_event": "habitat",
+      "annee": "1912                ",
+      "latitude": 48.8218818253,
+      "longitude": 3.18099765766,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "11431",
+      "type_event": "habitat",
+      "annee": "1922                ",
+      "latitude": 48.4743072486,
+      "longitude": 2.51078189836,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "13839",
+      "type_event": "habitat",
+      "annee": "1924                ",
+      "latitude": 48.3685393925,
+      "longitude": 2.93052193046,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "13839",
+      "type_event": "habitat",
+      "annee": "1925                ",
+      "latitude": 48.3685393925,
+      "longitude": 2.93052193046,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "2679",
+      "type_event": "habitat",
+      "annee": "1926                ",
+      "latitude": 48.4093568314,
+      "longitude": 2.8079339272,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "13333",
+      "type_event": "habitat",
+      "annee": "1928                ",
+      "latitude": 48.4042073432,
+      "longitude": 2.77997290314,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "4788",
+      "type_event": "habitat",
+      "annee": "1931                ",
+      "latitude": 48.4066856508,
+      "longitude": 2.68031396389,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "7383",
+      "type_event": "habitat",
+      "annee": "1932                ",
+      "latitude": 48.5444723553,
+      "longitude": 2.65795821917,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "1275",
+      "type_event": "habitat",
+      "annee": "1933                ",
+      "latitude": 43.5036442498,
+      "longitude": 5.1606136975,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "5471",
+      "type_event": "habitat",
+      "annee": "1934                ",
+      "latitude": 48.6358224167,
+      "longitude": 2.80042109731,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "9682",
+      "type_event": "habitat",
+      "annee": "1939                ",
+      "latitude": 43.2345472455,
+      "longitude": 6.17955823473,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "9448",
+      "type_event": "habitat",
+      "annee": "1941                ",
+      "latitude": 48.8287176845,
+      "longitude": 2.36246822852,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "7383",
+      "type_event": "habitat",
+      "annee": "1941                ",
+      "latitude": 48.5444723553,
+      "longitude": 2.65795821917,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "3021",
+      "type_event": "habitat",
+      "annee": "1944                ",
+      "latitude": 48.8218818253,
+      "longitude": 3.18099765766,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "10421",
+      "type_event": "habitat",
+      "annee": "1946                ",
+      "latitude": 48.8579690039,
+      "longitude": 3.23286797694,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "11227",
+      "type_event": "habitat",
+      "annee": "1946                ",
+      "latitude": 48.845087486,
+      "longitude": 3.19932466379,
+      "pays": "NA                  "
+    },
+    {
+      "loc": "1327",
+      "type_event": "habitat",
+      "annee": "1965                ",
+      "latitude": 48.7072104391,
+      "longitude": 3.24596468954,
+      "pays": "NA                  "
+    }
+  ],
+  "familial": {
+    "mariage": [
+      {
+        "rang": "1 ",
+        "annee": "1946                ",
+        "loc": "11227",
+        "latitude": 48.845087486,
+        "longitude": 3.19932466379,
+        "pays": "NA                  "
+      }
+    ],
+    "children": [
+      {
+        "rang": "1    ",
+        "annee": "1947 ",
+        "type_lieu": "Nais  ",
+        "loc": "10421",
+        "latitude": 48.8579690039,
+        "longitude": 3.23286797694,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "2    ",
+        "annee": "1948 ",
+        "type_lieu": "Nais  ",
+        "loc": "10421",
+        "latitude": 48.8579690039,
+        "longitude": 3.23286797694,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "3    ",
+        "annee": "1957 ",
+        "type_lieu": "Nais  ",
+        "loc": "10421",
+        "latitude": 48.8579690039,
+        "longitude": 3.23286797694,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "4    ",
+        "annee": "1962 ",
+        "type_lieu": "Nais  ",
+        "loc": "10421",
+        "latitude": 48.8579690039,
+        "longitude": 3.23286797694,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "2    ",
+        "annee": "1981 ",
+        "type_lieu": "Res   ",
+        "loc": "9781",
+        "latitude": 48.8060154583,
+        "longitude": 2.57619846918,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "3    ",
+        "annee": "1981 ",
+        "type_lieu": "Res   ",
+        "loc": "9447",
+        "latitude": 48.8351562307,
+        "longitude": 2.41980703497,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "1    ",
+        "annee": "1981 ",
+        "type_lieu": "Res   ",
+        "loc": "13278",
+        "latitude": 47.6356885267,
+        "longitude": -2.64682620132,
+        "pays": "NA                  "
+      }
+    ],
+    "parents": [
+      {
+        "rang": "1 ",
+        "annee": "1882 ",
+        "type_lieu": "Nais  ",
+        "loc": "3021",
+        "latitude": 48.8218818253,
+        "longitude": 3.18099765766,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "2 ",
+        "annee": "1886 ",
+        "type_lieu": "Nais  ",
+        "loc": "224",
+        "latitude": 48.7355504117,
+        "longitude": 3.13534283623,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "2 ",
+        "annee": "1950 ",
+        "type_lieu": "Res   ",
+        "loc": "3021",
+        "latitude": 48.8218818253,
+        "longitude": 3.18099765766,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "2 ",
+        "annee": "1950 ",
+        "type_lieu": "Sep   ",
+        "loc": "3021",
+        "latitude": 48.8218818253,
+        "longitude": 3.18099765766,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "1 ",
+        "annee": "1961 ",
+        "type_lieu": "Res   ",
+        "loc": "3021",
+        "latitude": 48.8218818253,
+        "longitude": 3.18099765766,
+        "pays": "NA                  "
+      },
+      {
+        "rang": "1 ",
+        "annee": "1961 ",
+        "type_lieu": "Sep   ",
+        "loc": "3021",
+        "latitude": 48.8218818253,
+        "longitude": 3.18099765766,
+        "pays": "NA                  "
+      }
+    ],
+    "partner": [
+      {
+        "annee": "1914 ",
+        "type_lieu": "Nais  ",
+        "loc": "1327",
+        "latitude": 48.7072104391,
+        "longitude": 3.24596468954,
+        "pays": "NA                  "
+      },
+      {
+        "annee": "1946 ",
+        "type_lieu": "Res   ",
+        "loc": "1327",
+        "latitude": 48.7072104391,
+        "longitude": 3.24596468954,
+        "pays": "NA                  "
+      }
+    ]
+  },
+  "pro": [
+    {
+      "rang": "1 ",
+      "date_debut": "1925 ",
+      "date_fin": "1925 ",
+      "loc": "7859",
+      "latitude": 48.3898830911,
+      "longitude": 2.96155479657,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "2 ",
+      "date_debut": "1926 ",
+      "date_fin": "1927 ",
+      "loc": "2679",
+      "latitude": 48.4093568314,
+      "longitude": 2.8079339272,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "3 ",
+      "date_debut": "1928 ",
+      "date_fin": "1929 ",
+      "loc": "8055",
+      "latitude": 48.365092921,
+      "longitude": 2.81172585849,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "4 ",
+      "date_debut": "1930 ",
+      "date_fin": "1930 ",
+      "loc": "1327",
+      "latitude": 48.7072104391,
+      "longitude": 3.24596468954,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "5 ",
+      "date_debut": "1931 ",
+      "date_fin": "1931 ",
+      "loc": "4788",
+      "latitude": 48.4066856508,
+      "longitude": 2.68031396389,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "7 ",
+      "date_debut": "1932 ",
+      "date_fin": "1932 ",
+      "loc": "7383",
+      "latitude": 48.5444723553,
+      "longitude": 2.65795821917,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "9 ",
+      "date_debut": "1934 ",
+      "date_fin": "1938 ",
+      "loc": "5471",
+      "latitude": 48.6358224167,
+      "longitude": 2.80042109731,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "12",
+      "date_debut": "1941 ",
+      "date_fin": "1941 ",
+      "loc": "7383",
+      "latitude": 48.5444723553,
+      "longitude": 2.65795821917,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "13",
+      "date_debut": "1941 ",
+      "date_fin": "1943 ",
+      "loc": "9448",
+      "latitude": 48.8287176845,
+      "longitude": 2.36246822852,
+      "pays": "NA                  "
+    },
+    {
+      "rang": "14",
+      "date_debut": "1944 ",
+      "date_fin": "1970 ",
+      "loc": "10421",
+      "latitude": 48.8579690039,
+      "longitude": 3.23286797694,
+      "pays": "NA                  "
+    }
+  ],
+  "leisure": [
+    {
+      "rang": "1 ",
+      "date_debut": "1980 ",
+      "date_fin": "1980 ",
+      "type_episode": "Sejour              ",
+      "loc": "13278",
+      "latitude": 47.6356885267,
+      "longitude": -2.64682620132,
+      "pays": "NA                  "
+    }
+  ]
+}
